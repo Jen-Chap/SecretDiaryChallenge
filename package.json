@@ -1,0 +1,16 @@
+{
+  "name": "secretdiarychallenge",
+  "version": "1.0.0",
+  "description": "'secretdiarychallenge'",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine",
+    "start": "nodemon index.js"
+  },
+  "author": "'Jenna'",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  }
+}
